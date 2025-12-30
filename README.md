@@ -8,13 +8,13 @@ This repository serves as a reliable hub for clear, actionable resources aimed a
 
 ## Contents
 
-We will host fact sheets, infographics, training materials, and other resources that explain:
+We host fact sheets, infographics, training materials, and other resources that explain:
 
-- Norovirus symptoms and transmission
-- Effective cleaning and disinfection protocols
-- Hand hygiene best practices
-- Food safety measures
-- Outbreak response guidelines
+- [Disinfection Fact Sheet](disinfection-fact-sheet.md) – Key differences between cleaning and disinfecting, bleach solution preparation, and safety precautions.
+- Norovirus symptoms and transmission *(resource coming soon)*
+- Hand hygiene best practices *(resource coming soon)*
+- Food safety measures *(resource coming soon)*
+- Outbreak response guidelines *(resource coming soon)*
 
 ## How to Contribute
 
